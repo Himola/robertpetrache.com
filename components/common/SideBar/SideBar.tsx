@@ -13,17 +13,17 @@ import { Logo } from '../Logo/Logo';
 export const SideBar = () => {
   const links = [
     {
-      href: 'https://github.com/josemukorivo',
+      href: '#',
       Icon: AiFillGithub,
       title: 'Github',
     },
     {
-      href: 'https://twitter.com/josemukorivo',
+      href: '#',
       Icon: BsTwitterX,
       title: 'Twitter',
     },
     {
-      href: 'https://www.linkedin.com/in/josemukorivo/',
+      href: '#',
       Icon: AiFillLinkedin,
       title: 'Linkedin',
     },
@@ -40,14 +40,14 @@ export const SideBar = () => {
         <Logo />
         <Box className={s.bar}>
           <Text as='h5' casing='uppercase' className='font-heading mb-1'>
-            Software Engineer
+            WEB DEVELOPER
           </Text>
           <Text
             casing='uppercase'
             fontSize='xs'
             className='text-slate-500 dark:text-slate-400'
           >
-            Writer & DevOps Enthusiast
+            & Software Engineer
           </Text>
         </Box>
 
@@ -60,7 +60,7 @@ export const SideBar = () => {
               className='mb-5 block dark:hover:text-rose-500'
             >
               <Icon className={s.icon} />
-              <span className='sr-only'>Connect with Joseph on {title}</span>
+              <span className='sr-only'>Connect with Robert on {title}</span>
             </Link>
           ))}
         </Box>

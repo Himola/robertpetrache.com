@@ -17,8 +17,7 @@ export const Hero = () => {
               transition={{ duration: 0.8 }}
               whileInView={{ y: 0, opacity: 1 }}
             >
-              Hi 👋🏼, I’m Joseph. <br /> Writer, Software Engineer, DevOps
-              Enthusiast.
+              Hello, I’m Robert. <br /> Web Developer & Software Engineer.
             </motion.span>
           </Text>
           <Text className='mb-6 2xl:mb-10'>
@@ -28,12 +27,10 @@ export const Hero = () => {
               transition={{ duration: 1, delay: 0.2 }}
               whileInView={{ y: 0, opacity: 1 }}
             >
-              Hello there! It&lsquo;s a pleasure to meet you. This space is
-              where I immerse myself in the latest advancements in technology.
-              You&lsquo;ll find a mix of enlightening pieces on Software
-              Development and thorough examinations of Cloud Native
-              Technologies. I&lsquo;m genuinely excited to have you join me on
-              this adventure. 🚀
+              Welcome to my website!
+              Here, we explore the latest advancements in technology, offering
+              insightful articles on Software Development and comprehensive analyses of Web Development.
+              Join me on this exciting journey of discovery and innovation.
             </motion.span>
           </Text>
           <Box className='flex'>

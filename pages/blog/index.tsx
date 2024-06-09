@@ -4,10 +4,10 @@ import { Nav, Page } from '@components/common';
 export default function Home({ articles }) {
   return (
     <Page
-      title='Joseph Mukorivo | Blog'
-      description="Joseph's thoughts on Software Development, DevOps, Cloud Computing and Tech in general."
+      title='Robert Petrache | Blog'
+      description="Robert's thoughts on Software Development, DevOps, Cloud Computing and Tech in general."
       url='https://robertpetrache.com/blog'
-      keywords='Joseph, Mukorivo, Mukoriwo, software engineer,Blogger, Zimbabwe, Harare software developer, zimbabwe developer blog, software development blog, DevOps blog, Cloud Computing blog, React Developer, React Blog'
+      keywords='Robert, Petrache, web developer, software engineer,Blogger, Bucuresti, Harare software developer, software development blog, React Developer, React Blog'
       image='https://robertpetrache.com/images/banner.jpg'
       canonicalURL='https://robertpetrache.com/blog'
     >

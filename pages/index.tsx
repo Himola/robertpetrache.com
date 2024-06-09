@@ -25,10 +25,10 @@ export default function Home({ articles }) {
 
   return (
     <Page
-      title='Joseph Mukorivo | Software Engineer'
-      description='I am a Software Engineer, Blogger and DevOps Enthusiast based in Harare, Zimbabwe.'
+      title='Robert Petrache | Web Developer & Software Engineer'
+      description='I am a Web Developer & Software Engineer from Bucharest, Romania'
       url='https://robertpetrache.com'
-      keywords='Joseph, Mukorivo,Joseph Mukoriwo, Mukoriwo, software engineer,Blogger, Zimbabwe, Harare software developer, zimbabwe developer blog, software development blog, DevOps blog, Cloud Computing blog, React Developer, React Blog'
+      keywords='Robert, Petrache, Robert Petrache, web developer, software engineer,Blogger, Bucharest, software developer romania, blog developer bucuresti, software development blog, nextjs Developer, React Blog'
       image='https://robertpetrache.com/images/banner.jpg'
       canonicalURL='https://robertpetrache.com'
     >

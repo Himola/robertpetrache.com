@@ -6,12 +6,12 @@ export const Copyright = () => (
       Copyright © {new Date().getFullYear()} | All rights reserved.
     </Text>
     <Text fontSize='sm'>
-      Made with ❤️ in Zimbabwe🇿🇼 by{' '}
+      Made in Romania by{' '}
       <Link
         href='https://robertpetrache.com'
         className='font-medium text-rose-500 hover:text-rose-600 dark:text-rose-500'
       >
-        Joseph Mukorivo
+        Robert Petrache
       </Link>
       .
     </Text>

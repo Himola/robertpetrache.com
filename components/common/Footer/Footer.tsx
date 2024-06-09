@@ -22,7 +22,7 @@ export const Footer = () => {
               transition={{ duration: 0.6 }}
               whileInView={{ opacity: 1 }}
             >
-              Joseph Mukorivo
+              Robert Petrache
             </motion.span>
           </Text>
           <Text className='mb-6'>
@@ -32,12 +32,12 @@ export const Footer = () => {
               transition={{ duration: 0.8 }}
               whileInView={{ opacity: 1 }}
             >
-              Software engineer from Harare, Zimbabwe who is trying to make the
-              world a better place one{' '}
+              Web Developer & Software engineer from Bucharest, Romania who is trying to make the
+              online a better place one{' '}
               <code className='font-bold dark:font-medium dark:text-slate-300 2xl:text-xl'>
                 {'<commit/>'}
               </code>{' '}
-              at a time 😎.
+              at a time.
             </motion.span>
           </Text>
           <Subscribe />
@@ -80,7 +80,7 @@ export const Footer = () => {
               href='/#about'
               className='mb-4 block text-sm font-heading uppercase tracking-widest hover:text-rose-500 dark:hover:text-rose-500'
             >
-              {'<About Joseph/>'}
+              {'<About Robert/>'}
             </Link>
           </motion.span>
         </Box>

@@ -17,50 +17,49 @@ export const About = () => {
           </motion.span>
         </Text>
         <Text className='gap-5 md:columns-2 2xl:gap-10'>
-          Hello, I&lsquo;m Joseph, a Software Engineer from Harare, Zimbabwe 🇿🇼
-          and <span className='font-medium'>Founder & CTO</span> of{' '}
+          Hello, I&lsquo;m Robert, a Web Developer & Software Engineer from Bucharest, Romania
+          and <span className='font-medium'>Founder & CEO</span> of{' '}
           <Link
             className='font-medium text-rose-500 dark:text-rose-500'
             target='_blank'
-            href='https://complexus.tech'
+            href='https://www.primenetwork.ro'
           >
-            Complexus Technologies
+            Prime Network
           </Link>{' '}
-          a company dedicated to crafting user-centric software using Agile
-          methodologies. Over the years, I&lsquo;ve had the privilege of working
+          a company dedicated to crafting user-centric software. Over the years, I&lsquo;ve had the privilege of working
           with a diverse range of companies, from dynamic startups to esteemed
           institutions like the{' '}
           <Link
             className='font-medium text-rose-500 dark:text-rose-500'
             target='_blank'
-            href='https://rbz.co.zw'
+            href='#'
           >
-            The Reserve Bank of Zimbabwe
+            Project One
           </Link>
           ,{' '}
           <Link
             className='font-medium text-rose-500 dark:text-rose-500'
             target='_blank'
-            href='https://sivioinstitute.org'
+            href='#'
           >
-            The SIVIO Institute (Zimbabwe)
+            Project Two
           </Link>
           , and{' '}
           <Link
             className='font-medium text-rose-500 dark:text-rose-500'
             target='_blank'
-            href='https://vocinity.com'
+            href='#'
           >
-            Vocinty(USA)
+            Project Three
           </Link>
-          . I&lsquo;m currently based in Nairobi, Kenya 🇰🇪, where I&lsquo;m
-          working as a Software Engineer at{' '}
+          . I&lsquo;m currently based in Bucharest, Romania, where I&lsquo;m
+          working as a Web Developer & Software Engineer at{' '}
           <Link
             className='font-medium text-rose-500 dark:text-rose-500'
             target='_blank'
-            href='https://fin.africa'
+            href='https://www.primenetwork.ro'
           >
-            Fin.
+            Prime Network.
           </Link>{' '}
           I&lsquo;m excited to continue this journey, creating impactful
           software solutions. Looking forward to what lies ahead!
@@ -84,7 +83,7 @@ export const About = () => {
         <Image
           src='/images/me.jpeg'
           layout='fill'
-          alt='Joseph'
+          alt='Robert'
           quality={100}
           objectFit='cover'
         />
