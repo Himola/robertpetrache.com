@@ -15,7 +15,7 @@ export const GetInTouch = () => (
         <Button
           variant='primary'
           size='lg'
-          href='mailto:hello@josemukorivo.com'
+          href='mailto:talkto@robertpetrache.com'
           className='font-heading mr-3 text-sm uppercase'
         >
           send me an email

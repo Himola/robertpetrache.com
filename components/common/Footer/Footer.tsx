@@ -65,7 +65,7 @@ export const Footer = () => {
             whileInView={{ opacity: 1 }}
           >
             <Link
-              href='mailto:hello@josemukorivo.com'
+              href='mailto:talkto@robertpetrache.com'
               className='mb-4 block text-sm font-heading uppercase tracking-widest hover:text-rose-500 dark:hover:text-rose-500'
             >
               {'<Email me/>'}

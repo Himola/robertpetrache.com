@@ -27,10 +27,10 @@ export default function Home({ articles }) {
     <Page
       title='Joseph Mukorivo | Software Engineer'
       description='I am a Software Engineer, Blogger and DevOps Enthusiast based in Harare, Zimbabwe.'
-      url='https://josemukorivo.com'
+      url='https://robertpetrache.com'
       keywords='Joseph, Mukorivo,Joseph Mukoriwo, Mukoriwo, software engineer,Blogger, Zimbabwe, Harare software developer, zimbabwe developer blog, software development blog, DevOps blog, Cloud Computing blog, React Developer, React Blog'
-      image='https://josemukorivo.com/images/banner.jpg'
-      canonicalURL='https://josemukorivo.com'
+      image='https://robertpetrache.com/images/banner.jpg'
+      canonicalURL='https://robertpetrache.com'
     >
       <Nav className='absolute py-3 md:py-5' />
 

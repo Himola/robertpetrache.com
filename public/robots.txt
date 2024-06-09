@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://josemukorivo.com
+Host: https://robertpetrache.com
 
 # Sitemaps
-Sitemap: https://josemukorivo.com/sitemap.xml
+Sitemap: https://robertpetrache.com/sitemap.xml

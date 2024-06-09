@@ -6,10 +6,10 @@ export default function Home({ articles }) {
     <Page
       title='Joseph Mukorivo | Blog'
       description="Joseph's thoughts on Software Development, DevOps, Cloud Computing and Tech in general."
-      url='https://josemukorivo.com/blog'
+      url='https://robertpetrache.com/blog'
       keywords='Joseph, Mukorivo, Mukoriwo, software engineer,Blogger, Zimbabwe, Harare software developer, zimbabwe developer blog, software development blog, DevOps blog, Cloud Computing blog, React Developer, React Blog'
-      image='https://josemukorivo.com/images/banner.jpg'
-      canonicalURL='https://josemukorivo.com/blog'
+      image='https://robertpetrache.com/images/banner.jpg'
+      canonicalURL='https://robertpetrache.com/blog'
     >
       <Nav className='fixed border-b bg-white bg-opacity-75 py-3 backdrop-blur dark:bg-slate-900 dark:bg-opacity-90' />
       <Blog articles={articles} />

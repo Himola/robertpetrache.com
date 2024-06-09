@@ -3,7 +3,7 @@ import { useRouter } from 'next/router';
 import NProgress from 'nprogress';
 import '@styles/globals.css';
 
-import * as gtag from '../lib/gtag';
+// import * as gtag from '../lib/gtag';
 import { Accessibility, Layout } from '@components/common';
 import Head from 'next/head';
 
@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }) {
   useEffect(() => {
     // Listen to route changes for Google Analytics
     const handleRouteChange = (url) => {
-      gtag.pageview(url);
+      // gtag.pageview(url);
       NProgress.done();
     };
 

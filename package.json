@@ -1,11 +1,10 @@
 {
-  "name": "josemukorivo.com",
+  "name": "robertpetrache.com",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "cypress": "npx cypress open",
     "lint": "next lint",
     "postbuild": "next-sitemap"
   },

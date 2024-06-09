@@ -8,7 +8,7 @@ export const Copyright = () => (
     <Text fontSize='sm'>
       Made with ❤️ in Zimbabwe🇿🇼 by{' '}
       <Link
-        href='https://josemukorivo.com'
+        href='https://robertpetrache.com'
         className='font-medium text-rose-500 hover:text-rose-600 dark:text-rose-500'
       >
         Joseph Mukorivo

@@ -28,7 +28,7 @@ export const SideBar = () => {
       title: 'Linkedin',
     },
     {
-      href: 'mailto:hello@josemukorivo.com',
+      href: 'mailto:talkto@robertpetrache.com',
       Icon: AiFillMail,
       title: 'Email',
     },

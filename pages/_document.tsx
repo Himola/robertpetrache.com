@@ -1,6 +1,6 @@
 import Document, { Head, Html, Main, NextScript } from 'next/document';
 
-import { GA_TRACKING_ID } from '../lib/gtag';
+// import { GA_TRACKING_ID } from '../lib/gtag';
 
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -13,11 +13,11 @@ class MyDocument extends Document {
       <Html lang='en'>
         <Head>
           {/* Global Site Tag (gtag.js) - Google Analytics */}
-          <script
+          {/* <script
             async
             src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}
-          />
-          <script
+          /> */}
+          {/* <script
             dangerouslySetInnerHTML={{
               __html: `
             window.dataLayer = window.dataLayer || [];
@@ -28,7 +28,7 @@ class MyDocument extends Document {
             });
           `,
             }}
-          />
+          /> */}
           <script
             async
             src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4475252858901114'
